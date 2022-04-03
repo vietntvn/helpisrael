@@ -1,0 +1,13 @@
+body{background-color: #F2FDFB}
+
+.banner-1{background: linear-gradient(180deg, #0D594C 0%, #1AB298 100%); position: relative;}
+.banner-footer-1{width: 100%; line-height: 0; position: absolute; left: 0; bottom: 0;}
+.banner-header-1 img,.banner-footer-1 img{width: 100%}
+
+
+.banner-2{background-color:#0D594C; margin-top: 500px;}
+.banner-footer-2{width: 100%; line-height: 0;}
+
+
+
+.banner-header-2 img,.banner-footer-2 img{width: 100%}
